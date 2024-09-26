@@ -46,7 +46,7 @@ If you encounter an error where your nonce is too high, go to your Metamask, sel
 
 ## Authors
 
-Alan Gabriel Limyu (limyualan@gmail.com)
+Devansh Sharma - souldestryr@gmail.com
 
 
 ## License
